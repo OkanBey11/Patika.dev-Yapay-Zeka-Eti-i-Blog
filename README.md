@@ -8,7 +8,7 @@ Yapay zeka etiği, yapay zeka teknolojilerinin insanlar üzerindeki etkilerini v
 
 Yapay zeka teknolojileri, insanların verdiği kararlara göre daha hızlı ve doğru kararlar alabilir. Ancak, bazı durumlarda, yapay zeka teknolojilerinin kararları hatalı veya yanlış olabilir. Bu durum, özellikle hayati kararlarda insanların sağlığı ve güvenliği üzerinde önemli bir etkiye sahip olabilir. Son kara vericiyi bir yapak zeka yapmak tedirgin edici duruyor değil mi ?
 
-![DALL·E 2023-03-13 18.08.42 - Relying on Artificial Intelligence's Decisions, abstract art style.png](Yapay%20Zeka%20Etig%CC%86inde%203%20Ana%20Probleme%203%20Basit%20C%CC%A7o%CC%88zu%20916405c92c704d6db44acdb521d64437/DALLE_2023-03-13_18.08.42_-_Relying_on_Artificial_Intelligences_Decisions_abstract_art_style.png)
+![Banner](https://github.com/OkanBey11/Patika.dev-Yapay-Zeka-Eti-i-Blog/blob/main/DALL%C2%B7E%202023-03-13%2018.08.42%20-%20Relying%20on%20Artificial%20Intelligence's%20Decisions%2C%20abstract%20art%20style.png)
 
 ![DALL·E 2023-03-13 18.13.00 - Tracking and Verifying AI Decisions, in the form of ancient inscriptions.png](Yapay%20Zeka%20Etig%CC%86inde%203%20Ana%20Probleme%203%20Basit%20C%CC%A7o%CC%88zu%20916405c92c704d6db44acdb521d64437/DALLE_2023-03-13_18.13.00_-_Tracking_and_Verifying_AI_Decisions_in_the_form_of_ancient_inscriptions.png)
 
